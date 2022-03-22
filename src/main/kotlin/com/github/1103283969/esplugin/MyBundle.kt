@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.1103283969.esplugin
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
